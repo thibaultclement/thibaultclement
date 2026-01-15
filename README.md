@@ -43,7 +43,6 @@ I work across the **entire data value chain**, with a strong focus on **robustne
 
 **Stack:** Python, R, dbt, Airflow, DuckDB, SQL, Parquet
 
----
 
 ### ⚡ Renewable Energy – 20 Years of Historical Data (Engie Green)
 - Ingestion of heterogeneous historical datasets (txt, csv, xlsx, pdf…)
@@ -53,7 +52,6 @@ I work across the **entire data value chain**, with a strong focus on **robustne
 
 **Stack:** Python, AWS, Airflow, Parquet, OCR, Power BI
 
----
 
 ### 🚢 Economic Impact Modeling – Maritime Sector
 - Company & employment data aggregation
