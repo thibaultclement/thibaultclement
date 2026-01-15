@@ -96,5 +96,5 @@ _
 
 ## 📫 Get in touch
 - 🌐 https://www.intechnia.fr  
-- 💼 LinkedIn: https://linkedin.com/in/th-clement/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/th-clement/  
 - 🧑‍💻 GitHub: https://github.com/thibaultclement
