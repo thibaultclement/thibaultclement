@@ -1,31 +1,100 @@
-# 👋 Bienvenue sur mon GitHub
+# 👋 Hi, I'm Thibault Clément
 
-Je suis data scientist freelance, spécialisé en NLP, traitement de données et automatisation.
+Data Engineer / Data Scientist with strong experience building **industrial, end-to-end data pipelines**, from raw data collection to analytics and predictive modeling.
 
-## 🚀 Projets de data science
-- 🔍 [titanic-kaggle](https://github.com/...) — classification supervisée
-- ⚡ [energy-forecast](https://github.com/...) — prévision de consommation énergétique
-- 🐎 [scraping-hippodromes](https://github.com/...) — extraction automatisée de données hippiques
+I work across the **entire data value chain**, with a strong focus on **robustness, data quality, and production-ready architectures**.
 
-## 🛠️ Outils et automatisations
-- 📄 [invoice-generator-latex](https://github.com/...) — générateur de factures en LaTeX
-- 🌐 [blog-builder-hugo](https://github.com/...) — scripts pour site statique
+---
 
-## 📫 Me contacter
-→ [Mon site](https://...) | [LinkedIn](https://...) | [Blog](https://...)
+## 🧠 What I do
 
+### Data Engineering & Analytics Engineering
+- Data collection: **web scraping, APIs, multi-format ingestion**
+- Data processing & quality:
+  - cleaning, normalization, validation, anomaly detection
+  - automated data quality checks
+- Analytical modeling:
+  - **dbt**, medallion architecture (bronze / silver / gold)
+  - data marts, star schemas, BI-oriented models
+- Orchestration & production:
+  - **Airflow**, CI/CD, cloud & scalable environments
+  - performance optimization & reliability
 
-<!--
-**th-clement/th-clement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science & Modeling
+- Predictive modeling:
+  - classification, regression, forecasting, anomaly detection
+- **NLP & LLM**:
+  - text classification, semantic analysis, activity segmentation
+- Econometrics & applied statistics:
+  - causal & temporal analysis
+  - business and territorial impact modeling
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Selected real-world data projects
+
+### 📊 Automated Data Job Market Observatory
+**End-to-end industrial data platform**
+- Automated collection and parsing of job market data
+- Cross-analysis: salary, skills, technologies, location, sector
+- Medallion architecture with dbt (bronze / silver / gold)
+- Orchestrated pipelines with Airflow
+- Storage optimized for analytics (Parquet, DuckDB)
+
+**Stack:** Python, R, dbt, Airflow, DuckDB, SQL, Parquet
+
+---
+
+### ⚡ Renewable Energy – 20 Years of Historical Data (Engie Green)
+- Ingestion of heterogeneous historical datasets (txt, csv, xlsx, pdf…)
+- Automated data quality controls, OCR-based validation
+- Long-term time series consistency & anomaly detection
+- Cloud-based scalable pipelines and monitoring dashboards
+
+**Stack:** Python, AWS, Airflow, Parquet, OCR, Power BI
+
+---
+
+### 🚢 Economic Impact Modeling – Maritime Sector
+- Company & employment data aggregation
+- NLP & LLM-based classification of business activities
+- Revenue and value-added estimation
+- Regional economic analysis and BI dashboards
+
+**Stack:** Python, NLP, LLM, PostgreSQL, Power BI
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**
+- Python (main), SQL, R
+
+**Data & Analytics**
+- dbt, Airflow, Spark
+- DuckDB, PostgreSQL
+- Parquet, ETL pipelines
+
+**Data Science**
+- scikit-learn, statsmodels
+- NLP, LLMs
+- Econometrics & time series
+
+**Infra & Tooling**
+- AWS, CI/CD
+- Git, Bash
+- APIs, Web Scraping, OCR
+
+---
+
+## 🔍 Side & personal projects
+- Machine Learning & Deep Learning for **horse race outcome prediction**
+- Automated bankroll management with statistical & econometric models
+- Data scraping & enrichment pipelines
+
+---
+
+## 📫 Get in touch
+- 🌐 https://www.intechnia.fr  
+- 💼 LinkedIn: https://linkedin.com/in/thibaultclement  
+- 🧑‍💻 GitHub: https://github.com/th-clement
