@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thibault Clément
 
-Data Engineer / Data Scientist with strong experience building **industrial, end-to-end data pipelines**, from raw data collection to analytics and predictive modeling.
+Data Scientist / ML engineer with strong experience building **industrial, end-to-end data pipelines**, from raw data collection to analytics and predictive modeling.
 
 I work across the **entire data value chain**, with a strong focus on **robustness, data quality, and production-ready architectures**.
 
