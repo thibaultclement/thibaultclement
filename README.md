@@ -1,100 +1,55 @@
 # 👋 Hi, I'm Thibault CLEMENT
 
-Data Scientist / ML engineer with strong experience building **industrial, end-to-end data pipelines**, from raw data collection to analytics and predictive modeling.
+**Data Scientist / ML Engineer** with a strong Data Engineering background.
 
-I work across the **entire data value chain**, with a strong focus on **robustness, data quality, and production-ready architectures**.
+I build end-to-end data products, from **data collection and processing** to **machine learning, analytics and production pipelines**, with a particular focus on **data quality, reliability and maintainability**.
 
----
+## 🚀 What I work on
 
-## 🧠 What I do
+- **Machine Learning:** classification, regression, forecasting, anomaly detection
+- **NLP:** text classification, embeddings, semantic analysis, LLM-based workflows
+- **Data Engineering:** APIs, scraping, ETL/ELT, Spark, Airflow, dbt
+- **Data modeling:** medallion architectures, analytical models, PostgreSQL, DuckDB
+- **Production:** Docker, CI/CD, AWS, monitoring and data quality
 
-### Data Engineering & Analytics Engineering
-- Data collection: **web scraping, APIs, multi-format ingestion**
-- Data processing & quality:
-  - cleaning, normalization, validation, anomaly detection
-  - automated data quality checks
-- Analytical modeling:
-  - **dbt**, medallion architecture (bronze / silver / gold)
-  - data marts, star schemas, BI-oriented models
-- Orchestration & production:
-  - **Airflow**, CI/CD, cloud & scalable environments
-  - performance optimization & reliability
+## 🏗️ Selected projects
 
-### Data Science & Modeling
-- Predictive modeling:
-  - classification, regression, forecasting, anomaly detection
-- **NLP & LLM**:
-  - text classification, semantic analysis, activity segmentation
-- Econometrics & applied statistics:
-  - causal & temporal analysis
-  - business and territorial impact modeling
+### 📊 Sentinel — Data Job Market Observatory
 
----
+An end-to-end data platform designed to analyze the French data job market.
 
-## 🏗️ Selected real-world data projects
+- Automated collection from multiple job APIs and sources
+- RAW → Bronze → Silver → Gold data architecture
+- Spark / Delta Lake processing
+- dbt analytical models and data quality tests
+- Airflow orchestration
+- ML-based classification of relevant Data / Non-Data job offers
 
-### 📊 Automated Data Job Market Observatory
-**End-to-end industrial data platform**
-- Automated collection and parsing of job market data
-- Cross-analysis: salary, skills, technologies, location, sector
-- Medallion architecture with dbt (bronze / silver / gold)
-- Orchestrated pipelines with Airflow
-- Storage optimized for analytics (Parquet, DuckDB)
+**Stack:** Python, PySpark, Delta Lake, dbt, DuckDB, PostgreSQL, Airflow, Docker
 
-**Stack:** Python, R, dbt, Airflow, DuckDB, SQL, Parquet
+### ⚡ Renewable Energy — ENGIE Green
 
-_
+Processing and analysis of more than 20 years of heterogeneous renewable energy data.
 
-### ⚡ Renewable Energy – 20 Years of Historical Data (Engie Green)
-- Ingestion of heterogeneous historical datasets (txt, csv, xlsx, pdf…)
-- Automated data quality controls, OCR-based validation
-- Long-term time series consistency & anomaly detection
-- Cloud-based scalable pipelines and monitoring dashboards
+- Historical data ingestion and normalization
+- Time-series quality controls and anomaly detection
+- Automated data pipelines and monitoring
+- Cloud-based processing on AWS
 
-**Stack:** Python, AWS, Airflow, Parquet, OCR, Power BI
+**Stack:** Python, AWS, Airflow, Parquet, Power BI
 
-_
+### 🚢 Maritime Economic Impact Modeling
 
-### 🚢 Economic Impact Modeling – Maritime Sector
-- Company & employment data aggregation
-- NLP & LLM-based classification of business activities
-- Revenue and value-added estimation
-- Regional economic analysis and BI dashboards
+Data Science project combining company data, employment statistics and NLP to estimate the economic impact of maritime activities.
 
 **Stack:** Python, NLP, LLM, PostgreSQL, Power BI
 
----
+## 🛠️ Main stack
 
-## 🛠️ Tech stack
+**Python · SQL · PySpark · scikit-learn · dbt · Airflow · PostgreSQL · DuckDB · Docker · AWS · Git**
 
-**Languages**
-- Python (main), SQL, R
+## 📫 Contact
 
-**Data & Analytics**
-- dbt, Airflow, Spark
-- DuckDB, PostgreSQL
-- Parquet, ETL pipelines
-
-**Data Science**
-- scikit-learn, statsmodels
-- NLP, LLMs
-- Econometrics & time series
-
-**Infra & Tooling**
-- AWS, CI/CD
-- Git, Bash
-- APIs, Web Scraping, OCR
-
----
-
-## 🔍 Side & personal projects
-- Machine Learning & Deep Learning for **horse race outcome prediction**
-- Automated bankroll management with statistical & econometric models
-- Data scraping & enrichment pipelines
-
----
-
-## 📫 Get in touch
-- 🌐 https://www.intechnia.fr  
-- 💼 LinkedIn: https://www.linkedin.com/in/th-clement/  
-- 🧑‍💻 GitHub: https://github.com/thibaultclement
+🌐 [intechnia.fr](https://www.intechnia.fr)  
+💼 [LinkedIn](https://www.linkedin.com/in/th-clement/)  
+🧑‍💻 [GitHub](https://github.com/thibaultclement)
